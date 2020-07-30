@@ -1,0 +1,7 @@
+Git é uma ferramenta utilizada para armazenar códigos (Ex: Apps criados, arquivos.. ) e suas respectivas atualizações, 
+para que possam ser alteradas, revisadas e principalmente recuperadas, caso algum erro ocorra em atualizações futuras.
+O git garante que caso seu computador perca todos os arquivos, que você consiga recupera-los, caso tenham sido commitados.
+
+GitHub é basicamente o local onde o git é armazenado. 
+No Github podemos encontrar apps ja criados que sejam open source por exemplo e realizar alterações, e ainda solicitar ao usuário
+responsável para incluir a alteração no projeto principal. Ou apenas utiliza-lo para armazenar seus próprios projetos.
